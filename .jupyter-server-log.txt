@@ -37,3 +37,14 @@
 [I 18:34:11.514 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 18:39:02.500 NotebookApp] Saving file at /The Notebook .ipynb
+[W 18:49:16.906 NotebookApp] Culling 'idle' kernel 'python3' (35062b2d-a6f9-47e9-ac5f-377f1ea8ee28) with 1 connections due to 641 seconds of inactivity.
+[I 18:49:16.908 NotebookApp] Kernel shutdown: 35062b2d-a6f9-47e9-ac5f-377f1ea8ee28
+[W 18:49:18.231 NotebookApp] 410 DELETE /user/phystony-pk94s3d7a2s-vnia16el/api/sessions/a5c5e859-5870-4301-81ea-3fad8135d868 (187.189.145.198): Kernel deleted before session
+[W 18:49:18.232 NotebookApp] Kernel deleted before session
+[W 18:49:18.232 NotebookApp] 410 DELETE /user/phystony-pk94s3d7a2s-vnia16el/api/sessions/a5c5e859-5870-4301-81ea-3fad8135d868 (187.189.145.198) 3.180000ms referer=https://hub-binder.mybinder.ovh/user/phystony-pk94s3d7a2s-vnia16el/notebooks/The%20Notebook%20.ipynb
+[W 18:49:50.492 NotebookApp] 404 DELETE /user/phystony-pk94s3d7a2s-vnia16el/api/sessions/a5c5e859-5870-4301-81ea-3fad8135d868 (187.189.145.198): Session not found: session_id='a5c5e859-5870-4301-81ea-3fad8135d868'
+[W 18:49:50.493 NotebookApp] Session not found: session_id='a5c5e859-5870-4301-81ea-3fad8135d868'
+[W 18:49:50.493 NotebookApp] 404 DELETE /user/phystony-pk94s3d7a2s-vnia16el/api/sessions/a5c5e859-5870-4301-81ea-3fad8135d868 (187.189.145.198) 1.480000ms referer=https://hub-binder.mybinder.ovh/user/phystony-pk94s3d7a2s-vnia16el/notebooks/The%20Notebook%20.ipynb
+[I 18:49:50.679 NotebookApp] Kernel started: fc395f50-1d6f-46fc-a99e-73b0516e46ca, name: python3
+[W 18:50:03.740 NotebookApp] delete /Mexico_COVID.png
